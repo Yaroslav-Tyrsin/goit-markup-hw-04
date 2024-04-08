@@ -218,6 +218,7 @@ img {
   justify-content: space-between;
   display: flex;
   gap: 24px;
+  margin-bottom: 8px;
 }
 
 .advantages-icon-item {
